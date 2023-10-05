@@ -9,3 +9,4 @@ edition = "2021"
 bevy = "0.11.3"
 bevy_svg = { version = "0.11.0", default-features = false, features = ["2d"] }
 chess_lib = { git = "https://github.com/clgustafsson/idapy-chess-lib.git" }
+#fork of idapy-chess-lib ^^
